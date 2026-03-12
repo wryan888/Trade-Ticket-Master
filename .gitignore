@@ -1,0 +1,5 @@
+# 忽略 Excel 暫存檔
+~$*.xls*
+
+# 忽略系統產生的日誌檔
+RunDaily_Log.txt
